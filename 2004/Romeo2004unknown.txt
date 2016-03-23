@@ -1,0 +1,361 @@
+The thin film solar cell based on CdTe: toward the industrial production. 
+
+Nicola Romeo 
+
+Dipartimento di Fisica, Università di Parma, Campus universitario, Parco Area delle 
+Scienze, 43100 Parma, Italy, e-mail: Nicola.Romeo@unipr.it tel: +39 0521905257 
+
+
+Abstract: The recent progress on developing CdTe/CdS thin film solar cells 
+is described with emphasis to a fabrication process aimed at a large scale 
+production. A completely dry process in which neither CdCl2 nor etching 
+acids, developed in our laboratory, is reported. Small area 1cm2 stable solar 
+cells with an efficiency of 15.8% can be obtained with this process. Neither 
+copper nor any other element of the first group of the periodic table is used 
+in the back contact in order to avoid the degradation, which is known to be 
+caused by the diffusion of these elements through the grain boundaries. 
+
+1. Introduction 
+Single crystal solar cells, such as Si and/or III-V compound solar cells have showed, in the 
+laboratory scale, efficiencies close to their respective theoretical limits. Si modules with an 
+efficiency around 15% can be easily bought at an average cost of 5¼:WKDWLVTXLWHIDUIURPEHLQJ 
+competitive with the cost of electrical energy obtained from fossil fuels. 
+
+A further cut of Si modules cost could be obtained both by reducing the thickness and 
+enlarging the area of Si wafers and by increasing the production by automating the fabrication 
+process. However, it will be quite difficult to decrease the price under 2¼:7KHRQO\ZD\WRUHDFK 
+a module cost competitive to that of electrical energy obtained from fossil fuels is that of using 
+modules based on thin film solar cells. There are at least three reasons why thin film modules could 
+be cost competitive: 
+a) The amount of source material is at least 100 times less than that used for single crystal modules 
+
+and is a negligible part of the overall cost. 
+b) The fabrication process can be completely automated and a production yield of one module per 
+minute can be obtained. 
+c) Low cost soda lime glass can be used as a substrate 
+
+Production cost of less than 0.5$/W have been foreseen by K.Zweibel [1] for thin film 
+modules, a cost that is close to be competitive with the electrical energy obtained from fossil fuels. 
+So far, three kinds of thin film solar cells are considered for production: 
+1) Amorphous silicon : a-Si maximum efficiency of ~13% [2] 
+2) CuInGaSe2/CdS: maximum efficiency of 19.2% [3] 
+3) CdTe/CdS: maximum efficiency of 16.5% [4] 
+
+Among these, the CdTe/CdS thin film solar cell is the most favoured since, due to the simple 
+techniques used for thin film deposition, it can be more easily brought from laboratory scale to 
+industrial scale. 
+
+Nowadays there are two companies producing CdTe/CdS modules namely First Solar in the 
+United States and Antec Solar in Germany. 
+
+
+2. The CdTe/CdS thin film solar cells 
+The CdTe/CdS thin film solar cell is composed of four layers, namely the TCO (Transparent 
+Conducting Oxide) which acts as the front contact, CdS which is the n-type partner, CdTe which is 
+the p-type partner, and the back contact (see Fig.1). Both TCO and back contact are constituted of 
+two sub-layers. As a substrate, a soda lime glass is normally used. 
+
+
+Figure 1: Structure of the CdTe/CdS thin film solar cell 
+
+3. The TCO layer 
+The characteristics which a TCO layer must exhibit are: 
+1) A low sheet resistance less than 10 Ohm-square in order for it not to add a series resistance to the 
+solar cell 
+2) A high transparency more than 90% in the wavelength region of interest that is between 400nm 
+and 800nm for CdTe/CdS solar cells. 
+
+Indium tin oxide can fulfil these requirements. However, due to the high temperature at which 
+CdTe is deposited and/or treated in presence of Cl, some In can diffuse from the ITO into the 
+subsequent deposited layers. In order to avoid the In diffusion, a buffer layer such as SnO2 or ZnO 
+is interposed between ITO and CdS. 
+
+A buffer layer thickness of 100-200nm can be sufficient to hinder the In-diffusion. 
+
+We demonstrated, by SIMS depth profile measurements, that the In concentration in CdTe 
+
+-3 -3 
+
+decreases from ~1017cmto 5×1015cmwhen the buffer layer is introduced between ITO and 
+CdS/CdTe. The buffer layer has another role: due to its relatively high resistivity, in the order of 
+102-103 Wcm, it can reduce the shunt that could form between CdS and ITO since CdS has to be 
+very thin (~60-80nm). Having in mind an industrial production, both ITO and buffer layer are 
+deposited by DC sputtering. ITO is deposited in an atmosphere of Ar+1% of O2 while SnO2 or ZnO 
+are deposited by using metal targets in an atmosphere of Ar+20%O2. 
+
+4. The CdS Layer 
+CdS films can be prepared by several methods. Among these, Chemical Bath Deposition 
+(CBD) and Close-Spaced Sublimation (CSS) demonstrated to be suitable to prepare high efficiency 
+cells. However, for an industrial production, sputtering is considered the most suitable technique. 
+Simple radio frequency sputtering does not produce CdS films that give high efficiency cells. 
+However, high quality CdS films can be obtained by sputtering if some F is introduced in the 
+
+
+sputtering chamber. We prepared F-doped CdS films by introducing in the sputtering chamber Ar 
+containing 3% of trifluoromethane (CHF3). This gas is decomposed in the sputtering discharge and 
+fluorine, being negative is directed to the substrate. We expected that fluorine, being a donor for 
+CdS, decreased the film resistivity, but this did not happen. On the other hand, CdS films prepared 
+in an atmosphere of Ar+CHF3 exhibit a forbidden gap larger than that of CdS films prepared in an 
+atmosphere of simple Ar (see Fig.2). 
+
+(a) (b) 
+Fig 2: Transparency spectrum of the CdS film prepared by sputtering in: (a) only Ar, (b) in Ar+CHF3 
+
+They exhibit a stronger cathodoluminescence, a stronger photoconductivity and, what is more 
+important, they give higher efficiency solar cells. Probably, the effect of fluorine is that, since it 
+bombards the CdS film during the growth, it eliminates any excess of Cd and S and produces a 
+more stoichiometric film. Besides, some CdF2 could form during the growth that can passivate the 
+grain boundaries. We observed that this type of CdS is harder to mix with CdTe when the 
+CdS/CdTe structure is treated at 400°C in presence of chlorine. This argument will be afforded 
+more in details below. 
+
+5. The CdTe Layer 
+CdTe films can be prepared by several methods such as simple evaporation, electrodeposition, 
+sputtering and CSS. The choice of the right method has to be made by making the following 
+considerations: 
+a) For industrial applications the deposition rate should be very high on the order of a few 
+mm/min since a minimum thickness of 3-4mm is needed in order to avoid shunts through the grain 
+boundaries. In this case electrodeposition and sputtering are excluded. 
+b) The crystalline quality of the film, namely the grain size, should be quite high. This can be 
+obtained only if high substrate temperature is used. The simple evaporation in high vacuum limits 
+the substrate temperature to 300-350°C, since at higher temperatures CdTe tends to re-evaporate. 
+The grain size of evaporated CdTe films is always less than 1mm and it is quite difficult to obtain 
+CdTe/CdS thin film solar cells with efficiency higher than 12% by depositing CdTe by simple 
+evaporation. 
+
+
+The only method that is able to grow CdTe at high substrate temperature (up to 650°C) and that 
+gives CdTe films with a grain size much larger than 1mm is the close-spaced sublimation (CSS) 
+Fig.3. Efficiencies up to 16.5% [4] can be obtained if CdTe is deposited by CSS. 
+
+
+Fig 3: CSS scheme for CdTe deposition 
+
+A peculiar characteristic of CSS is that it permits to deposit films at substrate temperatures 
+much larger than that used with other techniques giving the possibility to get more crystallised and 
+better quality thin films. The CSS is made up of a crucible containing the material to be evaporated 
+and a substrate that is put very close to the crucible (2-8 mm). The evaporation is done in presence 
+of an inert or reactive gas whose pressure can be varied between 1 and 100mbar. Since the crucible 
+temperature is kept always higher than that of the substrate, material is transferred from the crucible 
+to the substrate by sublimation. The presence of a gas inside the CSS chamber can help the 
+deposited material not to rievaporate even at temperatures at which the material evaporates when it 
+is in a high vacuum chamber. In our case the CSS is made up of two graphite blocks that act 
+respectively as crucible and substrate holder and they are put one over each other at a distance of 
+4mm. The graphite blocks are heated up by lamps that are kept close to them. The temperature of 
+both crucible and substrate is controlled by thermocouples immersed in the graphite blocks. As a 
+gas inside the chamber, we used either Ar or O2, or Ar mixed with O2. Depending on substrate 
+temperature a CdTe grain size ranging from 1 to 10 mm can be obtained. When O2 is put in the CSS 
+chamber, the grain size is always smaller, but we found out that CdTe(O)/CdS solar cells exhibit 
+generally a larger VOC and fill factor. We explained this fact considering that CdTe, growing in 
+presence of O2, tends to have a larger number of Cd-vacancies, since Cd reacts more than Te with 
+O2, and some Cd is lost in form of CdO. More Cd-vacancies means more p-type carriers. 
+
+6. CdTe-treatment in presence of Cl2 
+An important step in the fabrication of CdTe/CdS thin film solar cells is the CdTe treatment in 
+presence of Cl2. This is generally made by covering the CdTe surface with a layer of CdCl2 that can 
+be deposited both by dipping the CdTe film in a solution containing CdCl2 or by evaporating 100200nm 
+of CdCl2 on the CdTe surface. After the deposition of CdCl2, the CdTe film is put in an oven 
+and it is treated for 20 minutes at 400°C. At this temperature CdCl2 is decomposed and reacts with 
+CdTe bringing CdTe small grains in the vapour phase. In this way, CdTe is reordered and most 
+defects are removed. If this treatment is not done, the efficiency of CdTe/CdS solar cells is never 
+higher than 5%. In view of an industrial production, we invented a completely new way of treating 
+CdTe in presence of Cl2 that avoids any use of CdCl2. We treat CdTe in presence of a gas 
+containing Cl2 mixed with Ar. This gas could be anyone of the Freon family but we chose the one 
+that contains less chlorine such as CHF2Cl (difluorocloromethane) since it is the less dangerous for 
+the ozone belt. This gas is inert and not toxic at room temperature and it is contained in low-
+pressure cylinders; therefore it can be handled very easily. A mixture of ~100mbar of Ar and 
+
+
+20mbar of CHF2Cl at 400°C is sufficient to give the same effects as the treatment with the CdCl2. 
+Since at 400°C CHF2Cl is decomposed and CdTe starts to decompose, we suppose that the 
+following reaction happens: 
+
+CdTe (solid) + 2Cl2 (gas) Þ CdCl2 (gas) + TeCl2 (gas) Þ 2Cl2 (gas) + CdTe (solid) 
+
+In this way, the small CdTe grains go into vapour phase and become solid again only if they 
+are more strongly bound and then more ordered. An increase of the average grain size can be seen 
+in Fig. 4 and Fig. 5 where the CdTe surface is shown before and after treatment. The use of this new 
+method for treating CdTe gives a strong advantage for an industrial production. First of all, the step 
+of depositing CdCl2 is eliminated. CdCl2, differently from CdTe, has a high vapour pressure at 
+temperature as low as 400-500°C and, in case of fire, Cd can be freed that is very dangerous for the 
+human health. 
+
+
+Fig. 4: AFM image of not treated-CdTe 
+
+
+Fig 5: AFM image of CHF2Cl treated CdTe 
+
+After the treatment, keeping the sample at 400°C, a vacuum is made in order that any CdCl2 
+that could form onto the CdTe surface is removed. In this way, the CdTe surface remains clean and 
+it is ready for the back contact. The process here described has been patented. 
+
+
+7. The back contact 
+Making an ohmic contact to CdTe is a quite difficult task. Most researchers deposit a few 
+nanometers of Cu on top of CdTe in order to strongly dope p-type the CdTe surface. Before 
+depositing Cu, an etching in Br-methanol or in a mixture of HNO3 and HPO3 is done in order to 
+make the CdTe surface rich in Te. In this way a Cu2Te thin film is formed which could limit the Cudiffusion 
+into CdTe. The contact is then completed with graphite past. This type of contact works 
+quite well but it introduces another drawback that is Cu, being a very fast diffuser in CdTe, migrates 
+through the grain boundaries reaching the junction where it can create shunting paths. If the solar 
+cell has to live almost 20 years, Cu has to be avoided. 
+
+We invented a new back contact, which does not contain copper or any element of the 1st group 
+of the periodic table. Our contact is made by sputter depositing 200nm of Sb2Te3 onto the CdTe 
+surface at a substrate temperature of ~300°C. Sb2Te3 has a forbidden gap of ~0.3eV, is p-type and 
+exhibits a resistivity of less than 10-3W×cm. We made this choice since Sb2Te3 contains Sb, a group 
+V element, which, if it dopes CdTe close to the surface, it dopes p-type. This type of contact 
+resulted to be very stable even if the solar cell is exposed to a 20 suns light soaking at a temperature 
+of 100°C or more. Instead, an improvement of the solar cell parameters has been seen after light 
+soaking. The contact in completed by depositing 200nm of Mo on top of Sb2Te3. 
+
+One important consideration to be made is that we do not etch CdTe before making the contact 
+since we do not need to create a Te-rich surface on top of CdTe. The ohmicity of Sb2Te3 has been 
+also verified by using it as a contact for CdTe single crystal [5]. 
+
+8. The CdTe/CdS solar cell 
+The parameters of the CdTe/CdS solar cells prepared by the process described before have 
+been determined by measuring the I-V characteristic under an AM1.5, 100mW/cm2 simulated solar 
+light.Open circuit voltages ranging between 840 and 870mV, short circuit currents between 24 and 
+26 mA/cm2 and fill factors between 0.6 and 0.72 are obtained. 
+
+The highest efficiency that we were able to obtain on an area of 1cm2 is 15.8%. The I-V 
+characteristic of this cell is shown in Fig.6. Cell parameters are: VOC=0.862mV, JSC=25.5mA/cm2, 
+ff=72% and h=15.8%. 
+
+
+Fig6: I-V characteristic of our best completely dry-processed cell. 
+
+
+9. A possible industrial in-line dry process 
+The techniques that we use in our process are sputtering and CSS both fast and easily scalable. 
+A possible industrial dry process is shown in Fig.7. Modules of 0.6´1.2m2 can be processed in a 
+few minutes. 
+
+The glass, moved on a rail, enters in a washing and drying machine after which it is heated up 
+to 400°C and goes into a sputtering chamber, where 500nm of TCO are deposited. The temperature 
+is decreased again to RT and a laser scribing is done in order to eliminate the TCO along parallel 
+lines 1cm distant one from each other. The temperature is then risen on to 250°C and 60-80nm of 
+CdS are deposited by sputtering. In sequence the substrate temperature is risen up to 500°C and 
+5000-6000 nm of CdTe are deposited by CSS. After decreasing the temperature to RT a second 
+laser scribing is done in order to remove CdS and CdTe in parallel lines close to the ones made 
+before. 
+
+Washingand 
+dryingmachineTCO Sputt.
+CdTe withO2CSS1stLaserScribingSputt-CdSwithCHF3TreatmentwithCHF2Cl3rdLaser 
+ScribingSb2Te3& MoSputt. 
+2ndLaser 
+ScribingGlassWashingand 
+dryingmachineTCO Sputt.
+CdTe withO2CSS1stLaserScribingSputt-CdSwithCHF3TreatmentwithCHF2Cl3rdLaser 
+ScribingSb2Te3& MoSputt. 
+2ndLaser 
+ScribingGlassWashingand 
+dryingmachineTCO Sputt.
+CdTe withO2CSS1stLaserScribingSputt-CdSwithCHF3TreatmentwithCHF2Cl3rdLaser 
+ScribingSb2Te3& MoSputt. 
+2ndLaser 
+ScribingWashing and 
+drying machine 
+TCO Sputt. 
+CdTe with O2 
+CSS 
+1st Laser 
+Scribing 
+Sputt-CdS 
+with CHF3 
+Treatment 
+with CHF2Cl 
+3rd Laser 
+Scribing 
+Sb2Te3 & Mo 
+Sputt. 
+2nd Laser 
+Scribing 
+GlassGlass 
+CdTe400°C500°C250°CRTRT300°C400°CRTRTTCOLaser 
+scribingCdSTreatmentLaser 
+scribingLaser 
+scribingCdTe400°C500°C250°CRTRT300°C400°CRTRTTCOLaser 
+scribingCdSTreatmentLaser 
+scribingLaser 
+scribingCdTe400°C 
+500°C 
+250°C 
+RTRT 
+300°C 
+400°C 
+RT RT 
+TCO 
+Laser 
+scribing 
+CdS 
+Treatment 
+Laser 
+scribing 
+Laser 
+scribing 
+Fig 7: Block diagram and temperature profile of the industrial in-line dry process 
+
+
+Fig 8: Typical interconnects scheme for a CdTe/CdS solar cell module 
+
+The temperature is risen again to 300°C at which 300nm of Sb2Te3 and 300nm of Mo are 
+deposited in sequence by sputtering. Finally, a third laser scribing is done in parallel lines close to 
+
+
+those made by the second laser scribing in order to have a module made up of solar cells 1cm large 
+and as long as the length of the glass all put in series. (see Fig. 8). 
+
+This process is the simplest process to fabricate CdTe/CdS photovoltaic modules since 
+differently from Antec or First Solar it does not use CdCl2 to treat nor acids to etch the CdTe 
+surface. 
+
+10. Environment issues 
+Since CdTe contains Cd, a tale wanders around that CdTe-based photovoltaic modules could 
+be dangerous. As sodium chlorine (kitchen salt) is not sodium, CdTe is not Cd. The melting point of 
+CdTe is 1041°C and it starts to evaporate at 1050°C at atmosphere pressure. In case of fire, the 
+covering glass melts and encapsulated everything. This experiment was already done. 
+
+Cd is a by-product of Zn, Pb and Cu mining. Most of Cd, since it is not used in the market, is 
+buried or stored for future use or disposed of in landfills as hazardous waste. 
+
+The Cd world consumption is on the order of 20000 tons per year while for 1000MW of power 
+generated from 10% efficient CdTe modules only 700 tons of Cd are needed (only 4% of total 
+consumption of Cd. 
+
+Paradoxically, using Cd to form CdTe and then to make photovoltaic modules removes Cd 
+from the environment and reduces the risk of pollution [6, 7]. 
+
+11. Conclusion 
+The technology to fabricate CdTe/CdS thin film solar cells can be considered mature for a 
+large scale production of CdTe-based modules. A stable efficiency of 15.8%has been demonstrated 
+for 1 cm2 laboratory cell and it is expected that an efficiency of 12% can be obtained for 0.6´1.2m2 
+modules. A fully automated in-line process could produce 1 module every 2 minutes at a cost 
+substantially less than 1¼: 
+
+We have contributed to strongly simplify the process: 
+
+1. By developing a new way of depositing CdS, namely sputtering in presence of CHF3 
+2. By using a gas such as CHF2Cl instead of CdCl2 for treating CdTe 
+3. By eliminating the CdTe etching step from the production process 
+4. By inventing a new ohmic and stable contact for CdTe 
+References 
+
+[1] K. Zweibel, “Thin films: past, present and future”, Progress in Photovoltaic, Vol.3, N°5 
+(1995) 
+[2] J. Yang, A. Banerjee, S. Guha, “Amorphous and nanocrystalline silicon-based multi-
+junction solar cells”, Appl. Phys. Lett. 70 (1997) 2975. 
+[3] K. Ramanathan, M.A. Contreras, C.L. Perkins, S. Asher, F.S. Hasoon, J. Keane, D. Young, 
+M. Romero, W. Metzger, R. Noufi, J. Ward and A. Duda, “Properties of 19.2% efficiency 
+ZnO/CdS/CuInGaSe2 thin-film solar cells”, Prog. Photovolt: Res. Appl. 11 (2003) 225–230 
+[4] X. Wu, “High-efficiency polycrystalline CdTe thin-film solar cells”, Solar Energy 77 (2004) 
+803–814 
+[5] A. Zappettini, F. Bissoli, E. Gombia, A. Bosio, N. Romeo, “Characterisation of Sb2Te3 
+ohmic contacts on p-type CdTe single Crystal”, IEEE Transactions Nuclear Science 
+[6] E. Alsema et al., Report n°96074, Utrecht University, 1996 
+[7] K. Zweibel, V. Fthenakis, NCPV Program Review Meeting (2003), 
+http://www.nrel.gov/cdte/ 
+

@@ -1,0 +1,47 @@
+FN ISI Export Format
+VR 1.0
+PT J
+AU Ning, ZY
+   Cheng, SH
+   Huang, F
+   Bian, YB
+   Luo, XH
+TI Study on fluorine-doped indium oxide films deposited by reactive
+   evaporating in CF4/O-2 gases
+SO MATERIALS SCIENCE AND ENGINEERING B-SOLID STATE MATERIALS FOR ADVANCED
+   TECHNOLOGY
+LA English
+DT Article
+DE ITO film; F-doping; plasma enhanced evaporating
+ID SPRAYING METHOD; EFFICIENT
+AB Fluorine doped In2O3 films were deposited by DC plasma enhanced
+   evaporating in CF4/O-2 mixture gases. The effects of F-doping and
+   annealing on the electrical and optical properties of the films have
+   been investigated. The film resistivity significantly decreased, but
+   the transmittance became low due to F-doping. The film transmittance
+   can be improved by annealing in the vacuum. The annealing at higher
+   temperature is required for higher F-doped amorphous In2O3 films to be
+   crystallized. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Suzhou Univ, Dept Phys, Suzhou 215006, Peoples R China.
+RP Ning, ZY, Suzhou Univ, Dept Phys, Suzhou 215006, Peoples R China.
+NR 8
+TC 5
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0921-5107
+J9 MATER SCI ENG B-SOLID STATE M
+JI Mater. Sci. Eng. B-Solid State Mater. Adv. Technol.
+PD MAR 7
+PY 2002
+VL 90
+IS 1-2
+BP 196
+EP 200
+PG 5
+SC Materials Science, Multidisciplinary; Physics, Condensed Matter
+GA 524NJ
+UT ISI:000174019500037
+ER
+
+EF
